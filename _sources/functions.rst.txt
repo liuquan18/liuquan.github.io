@@ -1,0 +1,16 @@
+Functions
+=========
+
+.. automodule:: src.data_generator
+.. autosummary::
+   :toctree: _autosummary
+
+   generatexy
+
+
+.. automodule:: src.data_generator
+.. autosummary::
+   :toctree: _autosummary
+
+   doc_quick_plots
+
